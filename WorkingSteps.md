@@ -14,17 +14,18 @@
 >Target for small range of vals
 
 #Methods:
+
 #DIV BY MAX
-	elmt = elmt / max
-	print range of values (min to max)
+>	elmt = elmt / max
+>	print range of values (min to max)
  
 #MEAN NORM
-	get avg
-	elmt = (elmt - avg) / (max - min)
-	print range of values (min to max)
+>	get avg
+>	elmt = (elmt - avg) / (max - min)
+>	print range of values (min to max)
 	
 #Z-SCORE NORM
-	get stdDev
-	get avg
-	elmt = (elmt - avg) / stdDev
-	print range of values (min to max)
+>	get stdDev
+>	get avg
+>	elmt = (elmt - avg) / stdDev
+>	print range of values (min to max)
