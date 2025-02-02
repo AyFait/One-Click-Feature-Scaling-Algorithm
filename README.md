@@ -1,6 +1,6 @@
 # One-Click-Feature-Scaling-Algorithm
 >
->#THIS IS A PREPROCESSING STAGE/STEP
+#THIS IS A PREPROCESSING STAGE/STEP
 
 #CAN BE USED BEFORE OF AFTER PRINCIPAL COMPONENT ANALYSIS (PCA): which reduces number of features
 
